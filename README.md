@@ -96,8 +96,6 @@ If selected by the user with ʻid = 101`, then below the table we display the fo
 - ### [Site](https://mibw9.csb.app/ 'Right click to open site in separate window') 
 - ### [Codesandbox.io with site](https://codesandbox.io/s/musing-kapitsa-g7hsu 'Right click to open site in separate window')
 
-<<<<<<< HEAD
 - ### [DockerHub](https://hub.docker.com/r/sxidsvit/react-table)
+- ### [DockerHub & GitHub](https://hub.docker.com/r/sxidsvit/react-table-git)
 =======
-
->>>>>>> 3697de533ece570dba0c277d3e3a35386c6a5e47
