@@ -1,0 +1,15 @@
+FROM alpine
+
+RUN apk add git \
+  && apk add yarn \
+  && git clone https://github.com/sxidsvit/react-table.git \
+  && cd react-table \
+  && yarn
+
+WORKDIR /react-table 
+
+CMD ["yarn", "start"]
+
+EXPOSE 3000
+
+# CMD ["npm", 'run', "start"]
