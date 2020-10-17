@@ -11,5 +11,3 @@ WORKDIR /react-table
 CMD ["yarn", "start"]
 
 EXPOSE 3000
-
-# CMD ["npm", 'run', "start"]
