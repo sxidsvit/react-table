@@ -93,7 +93,7 @@ If selected by the user with ʻid = 101`, then below the table we display the fo
 
 ## Deploy
 
-- ###  [Codesandbox.io with site](https://codesandbox.io/s/musing-kapitsa-g7hsu 'Right click to open site in separate window)
+- ###  [Codesandbox.io with site](https://codesandbox.io/s/musing-kapitsa-g7hsu) 'Right click to open site in separate window
 
 If, when working with the codesandbox site , loading data when clicking on one of the buttons does not happen, then you need to follow the link https://cors-anywhere.herokuapp.com/ and activate a proxy server for your PC.
 After that, clicking on the buttons should work
